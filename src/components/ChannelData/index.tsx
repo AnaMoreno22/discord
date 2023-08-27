@@ -43,7 +43,7 @@ const ChannelData: React.FC = () => {
         />
 
         <ChannelMessage
-          author="Marcos Will"
+          author="Fabio"
           date="21/06/2021"
           content={
             <>
@@ -57,7 +57,7 @@ const ChannelData: React.FC = () => {
           date="21/06/2021"
           content={
             <>
-              <Mention>@Marcos Will</Mention> um momento
+              <Mention>@Fabio</Mention> um momento
             </>
           }
           hasMention
